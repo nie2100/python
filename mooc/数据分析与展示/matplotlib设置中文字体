@@ -1,0 +1,4 @@
+下载字体：http://downsc.chinaz.net/Files/DownLoad/font4/201610/font163.rar
+font.family : sans-serif（去掉#号）
+font.sans-serif : SimHei（去掉#号，添加字体名字）
+axes.unicode_minus : False（把True改成False)
